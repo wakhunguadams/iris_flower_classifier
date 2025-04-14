@@ -1,4 +1,4 @@
-# **Iris Classifier  **  
+# Iris Classifier 
 
 This project is a machine learning-based Iris flower classifier built using Python, Django, and scikit-learn. The classifier predicts the species of an Iris flower (Setosa, Versicolor, or Virginica) based on the input features: sepal length, sepal width, petal length, and petal width.
 
